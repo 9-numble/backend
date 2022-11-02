@@ -5,6 +5,9 @@
 .idea/
 .idea/**
 
+### application.yml ###
+src/main/resources/application-*.yml
+
 ### Eclipse ###
 .metadata
 bin/
