@@ -11,6 +11,7 @@ spring:
       - redis
       - db
       - jpa
+      - oauth2
 
 ---
 spring:
